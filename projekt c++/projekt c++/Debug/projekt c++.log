@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  Antylopa.cpp
+  Barszcz_Sosnowskiego.cpp
+  conio2.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Komentarz.cpp
+  Komentator.cpp
+c:\users\mikron22\source\repos\projekt c++\projekt c++\komentator.cpp(32): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lis.cpp
+  Lista_Organizmow.cpp
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  projekt c++.cpp
+  Roślina.cpp
+  Stale.cpp
+  Trawa.cpp
+  Wilcze_Jagody.cpp
+  Wilk.cpp
+  Zwierzę.cpp
+  Swiat.cpp
+c:\users\mikron22\source\repos\projekt c++\projekt c++\swiat.cpp(94): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\mikron22\source\repos\projekt c++\projekt c++\swiat.cpp(211): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  Trwa kompilowanie...
+  Żółw.cpp
+  Generowanie kodu...
+  projekt c++.vcxproj -> C:\Users\Mikron22\source\repos\projekt c++\Debug\projekt c++.exe
